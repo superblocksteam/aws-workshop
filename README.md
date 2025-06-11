@@ -62,7 +62,3 @@ This script will:
 
 - Ensure your PostgreSQL database is running and accessible before running the scripts.
 - The `.env` file is ignored by Git for security reasons. Do not share your credentials publicly.
-
-## License
-
-This repository is licensed under the MIT License.
