@@ -15,7 +15,7 @@ fi
 
 # Install required Python packages
 echo "Installing required Python packages..."
-pip install -q psycopg2-binary python-dotenv
+pip3 install -q -r requirements.txt
 
 # Create .env file with environment variables from AWS
 echo "Setting up database connection..."
